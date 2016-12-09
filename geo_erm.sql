@@ -1,6 +1,6 @@
 -- GEO ER-Modell zur Praktikumsaufgabe 1
 -- @author Jonas Jansen
-
+--blablatest
 --Tabllen löschen
 DROP TABLE kontinent CASCADE CONSTRAINTS;
 DROP TABLE organisation CASCADE CONSTRAINTS;
